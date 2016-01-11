@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebAutoFill</string>
+    <string name="action_settings">Settings</string>
+    <array name="ext_link">
+        <item>http://</item>
+        <item>https://</item>
+    </array>
+</resources>
